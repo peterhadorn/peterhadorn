@@ -1,0 +1,12 @@
+# Peter Hadorn
+
+**Projects**
+- [swissb2b.ch](https://swissb2b.ch): Swiss company data in four languages, built on the commercial register
+- [inmovigia.mx](https://inmovigia.mx): real-estate intelligence for Playa del Carmen (beta)
+- [pilatesyoga.mx](https://pilatesyoga.mx): directory of Pilates and yoga studios in Mexico City
+
+**Research**
+- [Swiss Email Security Report 2026](https://webevolve.ch/studien/schweizer-e-mail-sicherheitsreport/): DNS census of 2.46 million .ch domains ([code](https://github.com/peterhadorn/swiss-email-security-report), DOI [10.5281/zenodo.22116736](https://doi.org/10.5281/zenodo.22116736))
+- [Swiss Web Study 2026](https://webevolve.ch/studien/schweizer-web-studie/): CMS, SEO and AI readiness of .ch websites ([code](https://github.com/peterhadorn/swiss-web-report))
+
+[LinkedIn](https://www.linkedin.com/in/peterhadorn/?locale=en_US) · [webevolve.ch](https://webevolve.ch)
