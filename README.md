@@ -1,5 +1,7 @@
 # Peter Hadorn
 
+I build web apps, automations and pipelines for lead generation, outreach, company data, directories, real estate and research, end to end from collecting the data to monitoring the live product.
+
 **Projects**
 - [swissb2b.ch](https://swissb2b.ch): Swiss company data in four languages, built on the commercial register
 - [inmovigia.mx](https://inmovigia.mx): real-estate intelligence for Playa del Carmen (beta)
